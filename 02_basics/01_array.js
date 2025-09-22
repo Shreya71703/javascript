@@ -4,7 +4,7 @@ const myArray = [1, 2, 3, 4, 5]
 const myHeroes = ['thor', 'ironman', 'spiderman']
 
 const myArray2 = new Array(1, 2, 3, 4)
-console.log(myArray1);
+console.log(myArray2);
 
 // Array Methods
 
